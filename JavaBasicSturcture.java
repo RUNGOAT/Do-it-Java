@@ -21,8 +21,8 @@ System.out.println(value3);
 
 byte data1 = 3;
 double data2 = 5.5;
-double value4 = data1 + data2;
-System.out.println(value4);
+double value5 = data1 + data2;
+System.out.println(value5);
 	}
 }
 
