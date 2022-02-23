@@ -34,8 +34,9 @@ public class CallMethod {
 		System.out.println(result);
 		a.printMonth(5);
 		a.printMonth(15);
-
 		System.out.println();
+		
+		
 		System.out.println("내부에서의 메서드 호출");
 		/*클래스 내부에서의 메서드 호출*/
 		print();
